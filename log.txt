@@ -1,0 +1,33 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20240323020351
+Username: SERVER\Administrator
+RunAs User: SERVER\Administrator
+Configuration Name: 
+Machine: SERVER (Microsoft Windows NT 10.0.19045.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\Administrator\.vscode-server\extensions\ms-vscode.powershell-2024.0.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2024.0.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\Administrator\.vscode-server\extensions\ms-vscode.powershell-2024.0.0\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2024.0.0
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\Administrator\.vscode-server\data\User\globalStorage\ms-vscode.powershell\logs\1711180511-d457347a-952a-46e3-aaae-4c1f5c0fe9541711180498193\EditorServices.log' -SessionDetailsPath 'c:\Users\Administrator\.vscode-server\data\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-undefined-150446.json' -FeatureFlags @() 
+Process ID: 2668
+PSVersion: 5.1.19041.4046
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.4046
+BuildVersion: 10.0.19041.4046
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+name     SSID              Authentication Signal
+----     ----              -------------- ------
+Intri118 b8:38:61:2c:b3:5a Open              100
+Transcript started, output file is C:\Users\Administrator\Documents\scripts\log.txt
+Successfully connected to Intri118
+Ping to google.com was 50% successful or more
+**********************
+Windows PowerShell transcript end
+End time: 20240323020356
+**********************
