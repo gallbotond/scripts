@@ -1,0 +1,1 @@
+ & 'C:\Program Files (x86)\ForceBindIP\ForceBindIP64.exe' -i 172.16.0.131 'C:\Program Files\LibreWolf\librewolf.exe'
