@@ -1,3 +1,17 @@
+	
+
+	
+
+	
+
+
+
+	
+
+	
+
+	
+
 REM USE SCRIPT AT YOUR OWN RISK IT COMES WITHOUT ANY WARRANTY !!!!!
 
 REM Application Layer Gateway Service
@@ -27,7 +41,7 @@ sc config Netlogon start=disabled
 REM Offline Files
 sc config 	CscService start=disabled
 REM Windows Mobile Hotspot Service
-@REM sc config icssvc start=disabled
+REM sc config icssvc start=disabled
 REM Windows Insider Service
 sc config wisvc start=disabled
 REM Retail Demo Service
@@ -61,7 +75,7 @@ sc config DPS start=disabled
 REM Download Maps Manager
 sc config MapsBroker start=disabled
 REM Bluetooth Support Service
-@REM sc config bthserv start=disabled
+REM sc config bthserv start=disabled
 REM Bitlocker
 sc config BDESVC start=disabled
 REM AVCTP Service
